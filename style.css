@@ -29,3 +29,7 @@ body {
     width: 80%;
     background-color: #423A38;
 }
+
+.jumbotron {
+    margin-bottom: 0;
+}
