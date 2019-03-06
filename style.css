@@ -56,7 +56,7 @@ h2 {
     border: 1px solid white;
 }
 
-.project-tile p {
+.project-tile a {
     font-size: 16px;
     font-family: 'Roboto Mono', monospace;
     color: white;
