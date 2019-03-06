@@ -6,3 +6,14 @@ body {
 #welcome-section {
     text-align: center;
 }
+
+#navbar {
+    width: 80%;
+    margin: auto;
+}
+
+#navbar a {
+    text-align: center;
+    float: left;
+    width: 33.33%;
+}
