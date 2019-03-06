@@ -28,8 +28,10 @@ body {
 .container {
     width: 80%;
     background-color: #423A38;
+    height: 600px;
 }
 
 .jumbotron {
+    background-color: transparent;
     margin-bottom: 0;
 }
