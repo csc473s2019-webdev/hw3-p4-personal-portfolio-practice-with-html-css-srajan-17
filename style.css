@@ -6,6 +6,7 @@ body {
 #welcome-section {
     text-align: center;
     color: white;
+    font-family: 'Roboto Mono', monospace;
 }
 
 #navbar {
