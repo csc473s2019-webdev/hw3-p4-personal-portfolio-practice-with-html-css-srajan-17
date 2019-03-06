@@ -24,3 +24,8 @@ body {
     font-family: 'Roboto Mono', monospace;
     color: white;
 }
+
+.container {
+    width: 80%;
+    background-color: #423A38;
+}
