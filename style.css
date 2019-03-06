@@ -41,6 +41,18 @@ h2 {
     color: white;
 }
 
+#contact a {
+    font-size: 22px;
+    font-family: 'Roboto Mono', monospace;
+    color: red;
+}
+
+#contact p {
+    font-size: 22px;
+    font-family: 'Roboto Mono', monospace;
+    color: red;
+}
+
 .container {
     width: 80%;
     background-color: #423A38;
@@ -51,8 +63,6 @@ h2 {
     background-color:transparent !important;
     margin-bottom: 0;
 }
-
-
 
 .project-tile a {
     font-size: 22px;
