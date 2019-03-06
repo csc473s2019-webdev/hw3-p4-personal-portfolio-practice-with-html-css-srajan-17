@@ -1,6 +1,13 @@
+@media only screen and (max-width: 400px) {
+    body {
+        background-attachment: fixed;
+    }
+}
+
 body {
     background-image: url("background.jpg");
     background-attachment: fixed;
+    background-repeat: no-repeat;
 }
 
 #welcome-section {
@@ -8,6 +15,9 @@ body {
     color: white;
     font-family: 'Roboto Mono', monospace;
     height: 100vh;
+    position: relative;
+    top: 50%;
+    transform: translateY(25%);
 }
 
 #navbar {
