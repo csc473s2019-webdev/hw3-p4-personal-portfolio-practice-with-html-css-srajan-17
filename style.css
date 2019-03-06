@@ -10,6 +10,11 @@ body {
     background-repeat: no-repeat;
 }
 
+h2 {
+    color: white !important;
+    text-align: center;
+}
+
 #welcome-section {
     text-align: center;
     color: white;
@@ -17,7 +22,7 @@ body {
     height: 100vh;
     position: relative;
     top: 50%;
-    transform: translateY(25%);
+    transform: translateY(30%);
 }
 
 #navbar {
